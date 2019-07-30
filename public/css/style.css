@@ -1,0 +1,36 @@
+/**
+ * style.css
+ *
+ * 
+ * @author     Adriano Silva <https://adrianosilvapereira.com.br>
+ * @copyright  2019 Adriano Silva
+ * @version    0.0.1
+ */
+
+ body{
+ font-family: Arial, Helvetica, sans-serif;
+ }
+.title{
+	text-align: center;
+	margin-top: 20px;
+}
+.search{
+	margin-top: 50px;
+
+}
+.filter{
+	margin-top: 50px;
+}
+.filter-letter{
+	padding: 16px;
+	margin-bottom: 50px;
+}
+
+.actions {
+	text-decoration: none;
+	color: #212529;
+}
+
+.form-search{
+	float: right;
+}
